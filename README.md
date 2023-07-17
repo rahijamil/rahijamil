@@ -1,41 +1,34 @@
 # Mohammad Rahi 
 
-## Hi there 👋, Greetings from Mohammad Rahi
+## Hi there! 👋 I'm Mohammad Rahi, a Frontend Engineer specializing in PWA, NextJS, React Native | Focused on Performance & Scalability.
 
 <a href="https://app.daily.dev/mohammadrahi"><img src="https://api.daily.dev/devcards/960d56f58dfa49f2928ca704c3b55659.png?r=7ty" width="400" alt="Mohammad Rahi's Dev Card"/></a>
 
-I'm a passionate full-stack developer building with NextJS, Redux, and React Native. Proficient in ExpressJS, GraphQL, MongoDB, and Firebase. Exploring web3.0 ⚡️.
+Crafting high-performance PWAs using NextJS and React Native is my specialty. Committed to optimizing web performance and building robust, scalable digital solutions. I'm passionate about exploring and staying ahead of tech trends, with a current focus on Web3.0 ⚡️.
 
-I like to create and contribute to open-source projects. That helps me to learn a ton of new stuff, grow as a developer and support other open-source projects. Also, I enjoy writing technical things ✍️ at [medium](https://mohammadrahi.medium.com).
+I actively contribute to open-source projects and enjoy sharing knowledge through tech articles on [medium](https://mohammadrahi.medium.com), continuously learning, and growing as a developer.
 
 ## More About Me
 
-- 🌱 I am currently working on client projects and learning advanced things, I believe that every day is a learning opportunity.
+- 🌱 I'm currently working on diverse projects and diving into advanced frontend engineering topics, believing in the power of lifelong learning.
 - 📫 How to reach me: mohammadrahi003@gmail.com
 - 😄 Pronouns: He
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=ts,react,next,angular,redux,firebase,graphql,express,mongodb,tailwind,sass,git,github,vscode&perline=5)](#)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,materialui,js,ts,react,nextjs,firebase,supabase,babel,express,django,jest,docker,git,github,vscode&perline=6)](#)
 
 ## Keep in Touch
 
-You can connect with me on:
+Feel free to connect with me on:
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/csrahi)
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/mohammad-rahi/)
 [![StackOverflow](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/16542466/mohammad-rahi)
 [Medium](https://mohammadrahi.medium.com)
 
-Thank you! 🙂
+Thanks for stopping by! 🙂
 
 <!--
 **mohammad-rahi/mohammad-rahi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- ⚡ Fun fact: ...
 -->
