@@ -54,13 +54,13 @@ Hello! I'm Mohammad Rahi, a Full-Stack Developer specializing in building effici
 - Bengali (Native proficiency)
 
 ---
-
+<!--
 ## Key Projects
 
 - [**URL Shortener**](https://github.com/mohammad-rahi/url-shortener) - An efficient tool that generates short, easy-to-share URLs.
 
 ---
-
+-->
 ## Personal Interests
 
 - Writing and publishing technical articles to share my knowledge and insights.
