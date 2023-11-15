@@ -2,7 +2,9 @@
 
 ## Hi there! 👋 I'm Rahi, a Frontend Engineer specializing in PWA, NextJS, and React Native | Focused on Performance and scalability.
 
+<!--
 <a href="https://app.daily.dev/mohammadrahi"><img src="https://api.daily.dev/devcards/960d56f58dfa49f2928ca704c3b55659.png?r=hr8" width="400" alt="Mohammad Rahi's Dev Card"/></a>
+-->
 
 Crafting high-performance PWAs using NextJS and React Native is my specialty. Committed to optimizing web performance and building robust, scalable digital solutions. I'm passionate about exploring and staying ahead of tech trends, with a current focus on Web 3.0 ⚡️.
 
