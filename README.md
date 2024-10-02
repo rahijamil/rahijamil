@@ -13,7 +13,7 @@ I actively contribute to open-source projects and enjoy sharing knowledge throug
 ## More About Me
 
 - 🌱 I'm currently working on diverse projects and diving into advanced frontend engineering topics, believing in the power of lifelong learning.
-- 📫 How to reach me: mohammadrahi003@gmail.com
+- 📫 How to reach me: LinkedIn
 - 😄 Pronouns: He
 
 ## Skills
