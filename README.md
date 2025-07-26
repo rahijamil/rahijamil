@@ -1,36 +1,41 @@
 # Rahi Jamil
 
-## Hi there! 👋 I'm Rahi, a Frontend Engineer specializing in PWA, NextJS, and React Native | Focused on Performance and scalability.
+## Hey! I’m Rahi — a Fullstack and Backend Engineer who loves building scalable, high-performance apps.
 
-<!--
-<a href="https://app.daily.dev/mohammadrahi"><img src="https://api.daily.dev/devcards/960d56f58dfa49f2928ca704c3b55659.png?r=hr8" width="400" alt="Mohammad Rahi's Dev Card"/></a>
--->
+I enjoy working with **Spring Boot microservices**, **Next.js**, and **React** to create web apps that are fast, reliable, and easy to maintain. On the backend, I focus on clean architecture and building microservices that scale. On the frontend, I like crafting smooth, user-friendly interfaces.
 
-Crafting high-performance PWAs using NextJS and React Native is my specialty. Committed to optimizing web performance and building robust, scalable digital solutions. I'm passionate about exploring and staying ahead of tech trends, with a current focus on Web 3.0 ⚡️.
+I also work a lot with **Docker** and **Kubernetes** to containerize apps and run them in production. Automating deployment with **CI/CD pipelines** is a big part of how I ensure reliable releases.
 
-I actively contribute to open-source projects and enjoy sharing knowledge through tech articles on [medium](https://mohammadrahi.medium.com), continuously learning, and growing as a developer.
+Lately, I’ve been diving deeper into distributed systems, event-driven architecture with Kafka, and cloud infrastructure automation.
 
-## More About Me
+---
 
-- 🌱 I'm currently working on diverse projects and diving into advanced frontend engineering topics, believing in the power of lifelong learning.
-- 📫 How to reach me: LinkedIn
-- 😄 Pronouns: He
+## What I’m into these days:
 
-## Skills
+- Building backend microservices with **Spring Boot** and **Spring Cloud**
+- Developing modern frontends with **Next.js**, **React**, and **Tailwind CSS**
+- Containerizing apps with **Docker** and running them on **Kubernetes**
+- Setting up smooth CI/CD workflows using **GitHub Actions**
+- Working with **PostgreSQL** and **Redis** for data storage and caching
+- Writing clean, maintainable code focused on performance and scalability
+- Learning new stuff every day and contributing to open source when I can
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,materialui,js,ts,react,nextjs,firebase,supabase,babel,express,django,jest,docker,git,github,vscode&perline=6)](#)
+---
 
-## Keep in Touch
+## My main tools and tech
 
-Feel free to connect with me on:
+[![My Skills](https://skillicons.dev/icons?i=java,spring,nextjs,react,typescript,javascript,tailwindcss,docker,kubernetes,githubactions,kafka,postgresql,redis,git&perline=8)](#)
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/csrahi)
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/mohammad-rahi/)
-[![StackOverflow](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/16542466/mohammad-rahi)
-[Medium](https://mohammadrahi.medium.com)
+---
+
+## Let’s connect!
+
+I’m always happy to chat about tech, open source, or new projects. Reach out anytime!
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/csrahi)  
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/rahijamil)  
+[![Medium](https://skillicons.dev/icons?i=md)](https://rahijamil.medium.com)  
+
+---
 
 Thanks for stopping by! 🙂
-
-<!--
-**mohammad-rahi/mohammad-rahi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
